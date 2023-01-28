@@ -1,0 +1,8 @@
+code {
+    background-color:rgba(0, 0, 0, 0.842);
+    color:white;
+}
+
+table,thead,tbody,th,td {
+    border:1px solid;
+}
