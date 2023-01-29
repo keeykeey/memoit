@@ -1,3 +1,8 @@
+<head>
+    <link rel="stylesheet" href="../src/style.css"/>
+</head>
+
+
 <h1>Azure</h1><hr/>
 <h2><pre>Virtual Machine</pre></h2><hr/>
 
